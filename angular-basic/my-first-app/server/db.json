@@ -1,0 +1,32 @@
+{
+
+    "courses":[
+        {
+            "id":1,
+            "name":"Java 8",
+            "category":"programming",
+            "description":"Basic concepts of java 8"
+        },
+        {
+            "id":2,
+            "name":"Spring",
+            "category":"programming",
+            "description":"Basic concepts of Spring core"
+        },
+        {
+            "id":3,
+            "name":"Spring MVC",
+            "category":"programming",
+            "description":"Basic concepts of Spring MVC"
+        },
+        {
+            "id":4,
+            "name":"Hibernate",
+            "category":"programming",
+            "description":"Basic concepts of DBMS,ORM and Hibernate"
+        }
+
+
+    ]
+
+}

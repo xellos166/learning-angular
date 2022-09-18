@@ -1,0 +1,13 @@
+body {
+    margin-top: auto;
+    display: flex;
+    position: relative;
+    background-color: #dad7cd;
+}
+.form-container {
+    display: flex;
+    width: 60%;
+    margin-left: 25%;
+    margin-top: 5%;
+    position: relative;
+}

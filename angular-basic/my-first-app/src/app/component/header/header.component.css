@@ -1,0 +1,10 @@
+.app-header{
+    text-align: center;
+    background-color: bisque;
+    margin: 0px;
+    padding: 0px;
+    height: 30%;
+}
+.app-header h1{
+  text-shadow: 1px 1px 1px #000; 
+}
